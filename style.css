@@ -509,6 +509,8 @@ footer .social-links {
   .col-b {
     grid-area: B;
     min-height:547px;
+    display: flex;
+    align-items: flex-end;
   }
 
   section {
